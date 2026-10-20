@@ -1,0 +1,37 @@
+component,metric,period,cell_a,cell_b,pair,dissimilarity
+Bird communities,Jaccard,P1,A,B,A–B,0.25233644859813087
+Bird communities,Jaccard,P1,A,C,A–C,0.2063492063492064
+Bird communities,Jaccard,P1,A,D,A–D,0.14655172413793105
+Bird communities,Jaccard,P1,B,C,B–C,0.3145161290322581
+Bird communities,Jaccard,P1,B,D,B–D,0.27826086956521734
+Bird communities,Jaccard,P1,C,D,C–D,0.17692307692307696
+Bird communities,Jaccard,P2,A,B,A–B,0.28125
+Bird communities,Jaccard,P2,A,C,A–C,0.19999999999999996
+Bird communities,Jaccard,P2,A,D,A–D,0.16153846153846152
+Bird communities,Jaccard,P2,B,C,B–C,0.21311475409836067
+Bird communities,Jaccard,P2,B,D,B–D,0.21599999999999997
+Bird communities,Jaccard,P2,C,D,C–D,0.17692307692307696
+CORINE land cover,Ruzicka,P1,A,B,A–B,0.14008979636824836
+CORINE land cover,Ruzicka,P1,A,C,A–C,0.157179551434803
+CORINE land cover,Ruzicka,P1,A,D,A–D,0.3113946438527616
+CORINE land cover,Ruzicka,P1,B,C,B–C,0.16150728672329218
+CORINE land cover,Ruzicka,P1,B,D,B–D,0.2693421716258917
+CORINE land cover,Ruzicka,P1,C,D,C–D,0.22384232062817466
+CORINE land cover,Ruzicka,P2,A,B,A–B,0.17854758461534948
+CORINE land cover,Ruzicka,P2,A,C,A–C,0.2048280462219898
+CORINE land cover,Ruzicka,P2,A,D,A–D,0.32247236090936804
+CORINE land cover,Ruzicka,P2,B,C,B–C,0.22683098677878943
+CORINE land cover,Ruzicka,P2,B,D,B–D,0.24090929407899364
+CORINE land cover,Ruzicka,P2,C,D,C–D,0.25867052176236127
+Multispectral composition,Ruzicka,P1,A,B,A–B,0.23163191381506876
+Multispectral composition,Ruzicka,P1,A,C,A–C,0.20546264918376655
+Multispectral composition,Ruzicka,P1,A,D,A–D,0.3393459129006636
+Multispectral composition,Ruzicka,P1,B,C,B–C,0.13076112037972665
+Multispectral composition,Ruzicka,P1,B,D,B–D,0.23314027383693714
+Multispectral composition,Ruzicka,P1,C,D,C–D,0.23830356736080394
+Multispectral composition,Ruzicka,P2,A,B,A–B,0.2940118918572989
+Multispectral composition,Ruzicka,P2,A,C,A–C,0.21777907668358543
+Multispectral composition,Ruzicka,P2,A,D,A–D,0.30527680306055616
+Multispectral composition,Ruzicka,P2,B,C,B–C,0.213702675773481
+Multispectral composition,Ruzicka,P2,B,D,B–D,0.32948311132541586
+Multispectral composition,Ruzicka,P2,C,D,C–D,0.2317531540159976

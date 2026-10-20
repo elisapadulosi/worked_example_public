@@ -1,0 +1,10 @@
+file,description
+selected_2x2_cells.csv,IDs and labels of the four atlas cells used in the worked example.
+bird_presence_absence_2x2.csv,Complete bird presence-absence data for the four cells and two periods; used for Jaccard dissimilarity.
+bird_composition_2x2_top_species.csv,Fixed subset of bird species used only for visualisation.
+corine_composition_2x2.csv,CORINE land-cover class proportions by cell and period; used for Ruzicka dissimilarity.
+corine_pixels_2x2.csv,Real CORINE raster pixels within the four selected cells; used for the map panel.
+spectral_composition_2x2.csv,Multispectral class proportions by cell and period; used for Ruzicka dissimilarity.
+spectral_pixels_2x2.csv,Real 30 m multispectral-class pixels within the four selected cells; used for the map panel.
+pairwise_dissimilarity_2x2_P1_P2.csv,Six pairwise dissimilarities per component and period.
+pairwise_dissimilarity_change_summary.csv,Mean pairwise dissimilarity and temporal change for the three components.

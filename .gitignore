@@ -1,0 +1,7 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.DS_Store
+Thumbs.db
+data/processed/spectral_pixels_2x2.csv
