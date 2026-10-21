@@ -48,12 +48,11 @@ corine_pixels <- readr::read_csv(
   show_col_types = FALSE
 )
 
-spectral_pixels <- readr::read_csv(
+spectral_pixels <- readRDS(
   file.path(
     dir_data_processed,
-    "spectral_pixels_2x2.csv"
-  ),
-  show_col_types = FALSE
+    "spectral_pixels_2x2.rds"
+  )
 )
 
 pairwise <- readr::read_csv(
