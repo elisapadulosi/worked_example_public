@@ -123,6 +123,20 @@ The Landsat source datasets should be cited as:
   *Landsat 8–9 Operational Land Imager / Thermal Infrared Sensor Level-2, Collection 2* [dataset].  
   U.S. Geological Survey.  
   https://doi.org/10.5066/P9OGBGM6
+  
+## Licence
+
+Original materials created specifically for this repository by Elisa Padulosi are licensed under the **Creative Commons Attribution 4.0 International licence (CC BY 4.0)**, unless otherwise stated.
+
+This licence does not override the licences or terms of use of the original datasets from which some processed or derived products were generated.
+
+Original data remain subject to their respective licences and terms of use:
+
+- Czech bird-atlas data: **CC BY 4.0**, subject to the attribution and citation recommendations described above.
+- CORINE Land Cover: subject to the applicable Copernicus / European Environment Agency reuse conditions.
+- Landsat: subject to the applicable U.S. Geological Survey data-use conditions.
+
+Users are responsible for complying with the terms associated with each original data source.
 
 ## Reproducing the analysis
 
