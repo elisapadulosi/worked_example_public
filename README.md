@@ -138,6 +138,13 @@ Original data remain subject to their respective licences and terms of use:
 
 Users are responsible for complying with the terms associated with each original data source.
 
+### How to cite this repository and worked example
+
+If you use or adapt the code, workflow, processed data, or worked example, please cite:
+
+**[elisapadulosi. (2026). elisapadulosi/worked_example_public: Worked example: temporal change in spatial beta diversity (Version v1.0.0) [Computer software]. 
+   Zenodo. https://doi.org/10.5281/zenodo.23557496]**
+
 ## Reproducing the analysis
 
 The analysis and final figure can be reproduced from the processed data included in this repository. Access to the complete original raw datasets is not required.
